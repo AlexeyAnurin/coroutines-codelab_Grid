@@ -7,4 +7,5 @@ class GitTest1 {
     //! user1 said that you are dick
 
     //! gitTest2 feature2
+    //! feature1
 }
