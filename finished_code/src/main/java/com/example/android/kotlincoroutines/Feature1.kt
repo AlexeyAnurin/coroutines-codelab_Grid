@@ -7,4 +7,5 @@ class Feature1 {
     //! feature4
 
     //! Cherry pick from feature1
+    //! added in feature2. Some important shit
 }
