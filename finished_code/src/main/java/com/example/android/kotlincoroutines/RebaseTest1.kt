@@ -6,4 +6,5 @@ class RebaseTest1 {
     //! rebaseTest3
     //! rebaseTest4
     //! rebaseTest5
+    //! rebaseTest6
 }
