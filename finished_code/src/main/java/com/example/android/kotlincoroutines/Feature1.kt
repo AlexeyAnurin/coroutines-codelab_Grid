@@ -5,4 +5,6 @@ class Feature1 {
     //! feature2
     //! feature3
     //! feature4
+
+    //! Cherry pick from feature1
 }
