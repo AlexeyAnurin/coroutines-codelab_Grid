@@ -14,4 +14,8 @@ class Feature1 {
     //! feature 1 new commit 3
     //! feature 1 new commit 4
     //! feature 1 new commit 5
+
+    //! feature 2 new commit 1
+    //! feature 2 new commit 2
+    //! feature 2 new commit 3
 }
